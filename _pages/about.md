@@ -9,14 +9,17 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-{% include_relative includes/intro.md %}
+{{%/* fontstyle "large" "font-weight:300" */%}}
 
-<!-- If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io). -->
+{% include_relative includes/intro.md %}{: style="font-size: 16px"}
 
-{% include_relative includes/news.md %}
+{% include_relative includes/news.md %}{: style="font-size: 16px"}
 
-{% include_relative includes/pub.md %}
+{% include_relative includes/pub.md %}{: style="font-size: 16px"}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/talk.md %}{: style="font-size: 16px"}
 
-{% include_relative includes/honors.md %}
+{% include_relative includes/others.md %}{: style="font-size: 16px"}
+
+{% include_relative includes/honors.md %}{: style="font-size: 16px"}
+{{%/* /fontstyle */%}}

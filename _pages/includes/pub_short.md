@@ -1,27 +1,117 @@
 
-# 💻 Selected Research Papers
+# 💻 Other Publications and Preprints
 
-My full paper list is shown at [my personal homepage](https://rayeren.github.io).
+<ul>
+  <li>
+  <p>
+  <strong>
+  AdaDiff: Adaptive Step Selection for Fast Diffusion  </strong>
+  <br>
+    Hui Zhang, Zuxuan Wu, <strong>Zhen Xing</strong>, Jie Shao, Yu-Gang Jiang
+  <br>
+    <strong>AAAI </strong>, 2025, [<a href="https://arxiv.org/abs/2311.14768">Paper</a>]
+  </p>
+  </li>
 
-#### 🎙 Audio and Speech Processing
-- [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), **Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, ICLR 2021
-- [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf), **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu, NeurIPS 2019
-- [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166), **Yi Ren**, Jinglin Liu, Zhou Zhao, NeurIPS 2021
-- [ProsoSpeech: Enhancing Prosody With Quantized Vector Pre-training in Text-to-Speech](https://prosospeech.github.io/), **Yi Ren**, Ming Lei, Zhiying Huang,  Shiliang Zhang, Qian Chen, Zhijie Yan, Zhou Zhao, ICASSP 2022
-- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446), Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao, AAAI 2022
-- [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://arxiv.org/abs/2202.13277), Jinglin Liu, Chengxi Li, **Yi Ren**, Zhiying Zhu, Zhou Zhao, ACL 2022 \| [![](https://img.shields.io/github/stars/MoonInTheRiver/NeuralSVB?style=social&label=Code+Stars)](https://github.com/MoonInTheRiver/NeuralSVB)
+  <li>
+  <p>
+  <strong>
+  Advancing Dark Action Recognition via Modality Fusion and Dark-to-Light Diffusion Model </strong>
+  <br>
+    Yuxuan Wang, <strong>Zhen Xing</strong>, Zuxuan Wu
+  <br>
+    <strong>ICASSP </strong>, 2025, [<a href="https://ieeexplore.ieee.org/abstract/document/10890723">Paper</a>]
+  </p>
+  </li>
 
-#### 👄 Lip Generation/Understanding
-- [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao, AAAI 2022
-- [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan, ACM-MM 2020 
+  <li>
+    <p>
+    <strong>
+    Human2Robot: Learning Robot Actions from Paired Human-Robot Videos
+    </strong>
+    <br>
+    Sicheng Xie, Haidong Cao, Zejia Weng, <strong> Zhen Xing</strong>, Shiwei Shen, Jiaqi Leng, Xipeng Qiu, Yanwei Fu, Zuxuan Wu, Yu-Gang Jiang
+    <br>
+      <strong>Arxiv</strong>, 2025, [<a href="https://arxiv.org/pdf/2502.16587">Paper</a>]
+    </p>
+  </li>
 
-#### 📚 Machine Translation 
-- [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu, ACL 2020
-- [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, Tao Qin, Zhou Zhao, Tie-Yan Liu, ICLR 2019
+  <li>
+    <p>
+    <strong>
+    Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms
+    </strong>
+    <br>
+    Miaosen Zhang, Yixuan Wei, <strong> Zhen Xing</strong>, Yifei Ma, Zuxuan Wu, Ji Li, Zheng Zhang, Qi Dai, Chong Luo, Xin Geng, Baining Guo
+    <br>
+      <strong>NeurIPS</strong>, 2024, [<a href="https://arxiv.org/pdf/2406.06465.pdf">Paper</a>], [<a href="https://chenhsing.github.io/AID/">HomePage</a>]
+    </p>
+  </li>
 
-#### 🎼 Music Generation 
-- [PopMAG: Pop Music Accompaniment Generation](https://dl.acm.org/doi/10.1145/3394171.3413721), **Yi Ren**, Jinzheng He, Xu Tan, Tao Qin, Zhou Zhao, Tie-Yan Liu, ACM-MM 2020 
+  <li>
+    <p>
+    <strong>
+    FDGaussian: Fast Gaussian Splatting via Geometric-aware Diffusion Model
+    </strong>
+    <br>
+      Qijun Feng, <strong>Zhen Xing</strong>, Zuxuan Wu, Yu-Gang Jiang
+    <br>
+      <strong>Arxiv (Preprint)</strong>, 2024, [<a href="https://arxiv.org/pdf/2403.10242.pdf">Paper</a>], [<a href="https://qjfeng.net/FDGaussian/">HomePage</a>]
+    </p>
+  </li>
 
-#### 🧑‍🎨 Generative Model
-- [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao, ICLR 2022 \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
+  <li>
+  <p>
+  <strong>
+  TranSFormer: Slow-Fast Transformer for Machine Translation</strong>
+  <br>
+    Bei Li, Yi Jing, Xu Tan,  <strong>Zhen Xing</strong>, Tong Xiao and Jingbo Zhu
+  <br>
+  <strong>ACL (Findings)</strong>, 2023, [<a href="https://arxiv.org/pdf/2305.16982.pdf">Paper</a>]
+  </p>
+
+
+
+  <li>
+  <p>
+  <strong>Multi-Level Region Matching for Fine-Grained Sketch-Based Image Retrieval</strong>
+  <br>
+  Zhixin Ling, <strong>Zhen Xing</strong>, Jiangtong Li, Li Niu
+  <br>
+  <strong>ACM MM</strong>, 2022, [<a href="https://www.jiangtongli.me/publication/mlmr/mlmr.pdf">Paper</a>]
+  </p>
+  </li>
+
+  <li>
+  <p>
+  <strong>3D-Augmented Contrastive Knowledge Distillation for Image-based Object Pose Estimation</strong>
+  <br>
+  Zhidan Liu,<strong>Zhen Xing</strong>, Xiangdong Zhou, Yijiang Chen, Guichun Zhou
+  <br>
+  <strong>ICMR</strong>, 2022, [<a href="https://arxiv.org/pdf/2206.02531.pdf">Paper</a>]
+  </p>
+  </li>
+
+  <li>
+  <p>
+  <strong>CaSS: A Channel-aware Self-supervised Representation Learning Framework for Multivariate Time Series Classification</strong>
+  <br>
+  Yijiang Chen, Xiangdong Zhou, <strong>Zhen Xing</strong>, Zhidan Liu, Minyang Xu
+  <br>
+  <strong>DASFFA</strong>, 2022, [<a href="https://arxiv.org/pdf/2203.04298.pdf">Paper</a>]
+  </p>
+  </li>
+
+  <li>
+  <p>
+  <strong>From Coarse to Fine: Hierarchical Structure-aware Video Summarization</strong>
+  <br>
+  Wenxu Li, Gang Pan, Chen Wang, <strong>Zhen Xing</strong>, Zhenjun Han
+  <br>
+  <strong>TOMM</strong>, 2022, [<a href="https://dl.acm.org/doi/abs/10.1145/3485472">Paper</a>]
+  </p>
+  </li>
+</ul>
+
+
 
